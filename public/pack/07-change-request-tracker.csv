@@ -1,0 +1,4 @@
+date,project,client,request_summary,source,in_scope,decision,estimated_hours,fee_eur,change_order_id,status,notes
+2026-09-01,[PROJECT],[CLIENT],[One-line ask],[email|whatsapp|call],no,change_order,2,180,CO-001,approved,[Optional note]
+2026-09-03,[PROJECT],[CLIENT],[One-line ask],[email],yes,included_revision,0.5,0,,done,[Used revision round 1]
+2026-09-05,[PROJECT],[CLIENT],[AI discount request],[email],n/a,declined_offer_smaller_scope,0,0,,closed,[Sent script 2]
